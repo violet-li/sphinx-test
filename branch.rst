@@ -35,15 +35,19 @@
 - 1、选择你要删除的分支，如testbranch1
 
 
+
    .. image:: 3.png
+   
    
    
    
 - 2、选择Branch > Delete，点击Delete即可删除。
 
+
    
    .. image:: 4.png
    
+
 
    
 如何重命名一个分支？
@@ -51,6 +55,7 @@
 
 
 - 1、选择你要重命名的分支，如testbranch2
+
 
 
 
