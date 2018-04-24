@@ -14,4 +14,4 @@ Welcome to rst's documentation!
 	
 	
 	
-.. image:: 1.jpg
+.. image:: 
